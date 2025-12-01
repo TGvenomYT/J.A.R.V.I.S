@@ -1,0 +1,5 @@
+email = ""
+email_password = ""
+weather_api_key = ""
+gemini_api_key=""
+news_api_key = ""
